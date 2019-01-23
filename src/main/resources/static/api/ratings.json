@@ -1,0 +1,254 @@
+{
+  "errno": 0,
+  "data": [
+    {
+      "username": "3******c",
+      "rateTime": 1548039153235,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "小笼汤包不仅看相好，味道也很不错呢。俗话说得好：“轻轻移，慢慢提，先开窗，后喝汤。”在家门口很实惠方便，推荐",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "南瓜粥",
+        "皮蛋瘦肉粥",
+        "扁豆焖面",
+        "娃娃菜炖豆腐",
+        "牛肉馅饼"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1548039153235,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "服务态度不错",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "扁豆焖面"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1548039101236,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1548039153235,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text":"不错,粥很好喝,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.在家门口很实惠方便，推荐",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1548039153000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1548039153235,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1548039153235,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "味道真的不错，朋友都喜欢吃。今天还是比较幸运的，去了没有排队，坐下之后人瞬间好多。不过感觉涮菜吃的时候有点咸了，不过量绝对是够的。",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1548039153235,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "量给的还可以",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1548039153235,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1548039153235,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "孩子喜欢吃这家",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "南瓜粥"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1548039153235,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "粥挺好吃的",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1548039153235,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1548039153235,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1548039153235,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1548039153235,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给快递小哥点个赞",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1548039153235,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1548039153235,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "吃了还想再吃",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1469121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "卤肉饭肉是硬的，凉皮是超凉超凉的，肉饼面也疙疙瘩瘩的，不会再去第二次",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1469111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好吃",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1469101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1469091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1469081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "很喜欢的粥",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1469071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1548039112345,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    }
+  ]
+}
